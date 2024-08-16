@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Header-Section{
+    background-image: url(../aseets/img/fondo1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: auto;
+}
+
+.fotoperfil{
+    max-width: 100%;
+}
+
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-top: 25px;
+    margin-left: 15px;
+    float: right;
+}
+
+#Portafolio .image-top{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+}
