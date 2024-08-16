@@ -28,3 +28,8 @@ aside{
     background-position: center;
     justify-content: center;
 }
+
+.footer img {
+    width:40px;
+    height:40px
+}
